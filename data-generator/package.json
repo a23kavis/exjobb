@@ -1,0 +1,10 @@
+{
+  "name": "data-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generate benchmark payload with 5000 mock users",
+  "main": "generate-payload.js",
+  "scripts": {
+    "generate": "node generate-payload.js"
+  }
+}
